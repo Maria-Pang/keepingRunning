@@ -1,0 +1,4 @@
+pod 'AFNetworking'
+pod 'YYModel'
+pod 'SDWebImage'
+pod 'MBProgressHUD'
